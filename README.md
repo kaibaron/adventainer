@@ -7,4 +7,5 @@ Think about
 - true real time data feeds for e.g. stock market and weather data.
 - text-to-speech
 - speech to text
-=> a new gamme genre, the audio-book type of text adventures!
+
+=> a new game genre, the audio-book type of text adventures!
