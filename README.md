@@ -5,4 +5,6 @@ Think about
 - true AI charcters, 
 - true multi-player, 
 - true real time data feeds for e.g. stock market and weather data.
-- true text-to-speech
+- text-to-speech
+- speech to text
+=> a new gamme genre, the audio-book type of text adventures!
